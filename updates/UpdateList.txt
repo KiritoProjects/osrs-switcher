@@ -1,1 +1,4 @@
-
+Version: 0.02
+Date: 19-01-2020 17:15
+Updates:
+Cleaned up useless and unused code
