@@ -1,3 +1,12 @@
+Version: 0.06
+Date: 20-01-2020 23:20
+Updates:
+Added Smite
+Removed prayers from default switches and spec
+
+
+
+
 Version: 0.02
 Date: 19-01-2020 17:15
 Updates:
