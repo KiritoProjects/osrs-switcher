@@ -3,6 +3,7 @@ Date: 20-01-2020 23:20
 Updates:
 Added Smite
 Removed prayers from default switches and spec
+Fixed a update issue
 
 
 
